@@ -1,0 +1,21 @@
+- 이름 바꾸기
+
+- Client_object에 추가
+- Client_Define Type 넣어주기
+- 각 무기클래스의 멤버변수값 설정
+- 셋업컴포넌트에 이름 설정
+- Update_WeaponState에  enum 넣어주기
+- 레벨- 로더 - 모델 컴포넌트 추가
+- 게임 오브젝트 추가
+- 해당 레벨에 오브젝트레이어 추가
+
+// 플레이어 키입력추가
+
+M4_RELOAD M4_SHOOT, RIFLE_REROAD, RIFLE_SHOOT,
+SNIPER_RERLOAD, SNIPER_SCPOPE_IN, SNIPER_SCOPE_OUT, SNIPER_SHOOT,
+DEAGLE_REROAD, DEAGLE_SHOOT,
+DUALGUN_REROAD, DUAL_GUN_LEFT, DUAL_GUN_RIGHT
+GAUNTLET_SHOOT_LEFT, GAUNTLET_SHOOT_RIGHT,
+GRENADELAUNCHER_RELOAD, GRENADELAUNCHER_SHOOT
+HEAVYCROSSBOW_SHOOT,
+KUNAI_SHOOT1, KUNAI_SHOOT2, WEAPON_END};
